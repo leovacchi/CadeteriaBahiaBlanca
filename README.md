@@ -30,7 +30,7 @@ Instalación:
 
 Para probar MotoMensajería Express localmente, sigue estos pasos:
 
-Clona el repositorio (git clone https://github.com/tuusuario/MotoMensajeriaExpress.git).
+Clona el repositorio (git clone https://github.com/leovacchi/CadeteriaBahiaBlanca.git).
 Navega al directorio del proyecto (cd Cadeteria Bahia Blanca).
 Abre el formulario de pedido (index.html) en tu navegador.
 ¡Gracias por elegir MotoMensajería Express!
